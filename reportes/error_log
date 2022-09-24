@@ -1,0 +1,24 @@
+[21-Aug-2019 13:04:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[04-Dec-2019 07:56:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[04-Dec-2019 07:58:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[04-Dec-2019 07:58:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[04-Dec-2019 07:58:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[04-Dec-2019 07:58:58 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[06-Dec-2019 11:49:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[06-Dec-2019 11:53:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jaec/public_html/fs/funciones/conexion_bbdd.php on line 5
+[14-Jan-2020 03:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anees/public_html/reportes/rep_denuncias_actividad.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anees/public_html/reportes/rep_denuncias_actividad.php on line 14
+[14-Jan-2020 03:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anees/public_html/reportes/rep_denuncias_horario.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anees/public_html/reportes/rep_denuncias_horario.php on line 14
+[14-Jan-2020 03:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anees/public_html/reportes/rep_denuncias_horario_colum.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anees/public_html/reportes/rep_denuncias_horario_colum.php on line 14
+[14-Jan-2020 03:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anees/public_html/reportes/rep_denuncias_temporal_colum.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/anees/public_html/reportes/rep_denuncias_temporal_colum.php on line 14
