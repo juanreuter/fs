@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @charset "utf-8";
 /* CSS Document */
 
@@ -44,6 +45,53 @@ a.linkdenuncias:hover {color:#005929}
 .menutitulo {width:100%; min-height:20px; background-color:#fff; padding:5px:-webkit-border-radius: 3px; border-radius: 3px}
 
 a.linkblanco {font-size:13px; margin-right:25px; color:#FFF; text-indent:10px}
+=======
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#F5F5F5}
+#Cabecera {width:100%; background-color:#005929; padding:5px; height:auto}
+#Men {width:100%; background-image:url(images/bg.jpg); padding-top:5px; height:auto; padding-bottom:5px; background-repeat:repeat-x; background-position:left top;}
+#Pie {width:100%; height:auto;  padding-top:15px; background-color:#E3E3E3; border-top:solid 1px #CCC; padding-bottom:15px; font-size:12px; color:#666666; text-shadow:#FFF 1px 1px 1px}
+#Menin {width:100%; background-image:url(images/bgint.jpg); padding-top:5px; height:auto; padding-bottom:5px; background-repeat:repeat-x; background-position:left top;}
+
+#Cont {background-color:#FFF; padding:10px}
+.clear {clear:both; height:8px}
+.clear2 {clear:both; height:12px}
+
+.blanco {color:#FFF;font-style:italic; font-size:13px; line-height:200%; margin-top:13px}
+
+a.linkface {background-image:url(images/top/face.jpg); width:28px; height:28px; display:inline-block; background-position:top left; margin-right:5px;margin-left:20px}
+a.linkface:hover {background-image:url(images/top/faceov.jpg)}
+
+a.linktwitter {background-image:url(images/top/twitter.jpg); width:28px; height:28px; display:inline-block; background-position:top left; margin-right:5px}
+a.linktwitter:hover {background-image:url(images/top/twitterov.jpg)}
+
+a.linkchat {background-image:url(images/top/chat.jpg); width:28px; height:28px; display:inline-block; background-position:top left;}
+a.linkchat:hover {background-image:url(images/top/chatov.jpg)}
+
+a.linkmenu {color:#FFF;  font-weight:800; margin-right:10px; line-height:90%}
+a.linkmenu:hover {color:#005929}
+
+.gris {background-color:#F7F7F7; padding:3px;}
+.grisoscuro {background-color:#E3E3E3; padding:3px;min-height:200px}
+
+.grande {font-size:28px; margin-bottom:5px}
+
+a.linkverde {color:#005929; text-decoration:underline}
+a.linkverde:hover {color:#000}
+
+a.linkdenuncias {color:#000; font-size:20px; }
+a.linkdenuncias:hover {color:#005929}
+
+.intete {display:block; border-bottom:solid 1px #CCC; height:25px; margin:15px; margin-top:30px}
+
+.menunegro {width:100%; min-height:20px; background-color:#000; padding:5px}
+.menutitulo {width:100%; min-height:20px; background-color:#fff; padding:5px:-webkit-border-radius: 3px; border-radius: 3px}
+
+a.linkblanco {font-size:13px; margin-right:25px; color:#FFF; text-indent:10px}
+>>>>>>> 64483f4e4592a7d8cfa1980d291de5bef1badd92
 =======
 @charset "utf-8";
 /* CSS Document */

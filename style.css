@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body {
 	font-family: Tahoma,Arial,Verdana;
 	font-size: 12px;
@@ -8,6 +9,17 @@ body {
 a:link {color: #84c4e2;}
 a:visited {color:#84c4e2;}
 a:hover {color: #cd82ad;}
+=======
+body {
+	font-family: Tahoma,Arial,Verdana;
+	font-size: 12px;
+	color: black;
+}
+
+a:link {color: #84c4e2;}
+a:visited {color:#84c4e2;}
+a:hover {color: #cd82ad;}
+>>>>>>> 64483f4e4592a7d8cfa1980d291de5bef1badd92
 =======
 body {
 	font-family: Tahoma,Arial,Verdana;
